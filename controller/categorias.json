@@ -1,0 +1,8 @@
+{
+    "categorias":
+    [
+    {"codigo":"1","nome":"Musculacao","horadias":"Segunda-feira/15:20","professor":"Felipe Furlam"},
+    {"codigo":"2","nome":"Zumba","horadias":"Segunda-feira/15:20","professor":"Felipe Furlam"},
+    {"codigo":"3","nome":"Cross Fith","horadias":"Segunda-feira/15:20","professor":"Felipe Furlam"}
+    ]
+}

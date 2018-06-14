@@ -1,0 +1,55 @@
+body{
+	padding: 0px;
+	margin: 0px;
+}
+#titulo{
+	width: 30%;
+	box-shadow: 0px 0px 1px 2px #DC143C;
+	background-color: rgba(65,105,225,0.5);
+	border-radius: 10px;
+	padding-left: 2%;
+}
+#titulo h3{
+	font-family: cursive;
+	font-size: 1.5em;
+	text-shadow: 2px 2px 1px 2px #C71585;
+	color: #fff;
+}
+#titulo p{
+ font-family: "Times New Roman", Times, serif;
+ text-shadow: 1px 1px 2px 5px #fff;
+ 
+}
+footer{
+	
+}
+footer p{
+  margin-left: 10%;
+  padding-top: 2%;
+}
+.alert-info{
+	width: 80%;
+	margin-left: 10%;
+}
+table th{
+	text-align: center;
+	background-color: #00BFFF;
+	border-radius: 10px 10px 0px 0px;
+	color: #fff;
+}
+table td{
+	text-align: center;
+}
+#TableHorario{
+	width: 60%;
+    color: #4169E1;
+    float: left;
+}
+#banner{
+	width: 30%;
+	float: left;
+	margin-left: 4%;
+}
+img{
+	width: 100%;
+}
